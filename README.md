@@ -29,7 +29,6 @@ Proyek ini menggunakan beberapa tools & library Python:
   - Decision Tree  
   - Random Forest  
   - Gradient Boosting  
-  - K-Nearest Neighbors (KNN)  
   - Support Vector Classifier (SVC)  
 - **Model Evaluation**:  
   - `accuracy_score`, `classification_report`, `confusion_matrix`  
