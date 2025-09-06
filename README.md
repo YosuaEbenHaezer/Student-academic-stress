@@ -4,12 +4,16 @@ Proyek ini bertujuan untuk menganalisis dan memprediksi tingkat stres akademik p
 
 ## 📂 Dataset  
 Dataset yang digunakan adalah **Student Academic Stress Dataset (real world dataset)** yang mencakup informasi kondisi pelajar seperti:  
-- Gender  
-- Usia  
-- Kegiatan akademik  
-- Faktor sosial & keluarga  
-- Tingkat stres  
-
+ 0   Timestamp                                                            
+ 1   Your Academic Stage                                                 
+ 2   Peer pressure                                                        
+ 3   Academic pressure from your home                                     
+ 4   Study Environment                                                    
+ 5   What coping strategy you use as a student?                           
+ 6   Do you have any bad habits like smoking, drinking on a daily basis?  
+ 7   What would you rate the academic  competition in your student life   
+ 8   Rate your academic stress index  
+ 
 Dataset ini diolah melalui:  
 - Encoding kategori → Label Encoding & One-Hot Encoding  
 - Normalisasi & Standarisasi  
