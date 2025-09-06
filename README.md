@@ -56,3 +56,5 @@ Beberapa model dicoba dengan *GridSearchCV* untuk mencari *hyperparameter terbai
 2. Install dependensi yang diperlukan:  
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+3. Jalankan Jupyter Notebook:
+   jupyter notebook Stress_Pelajar_(1).ipynb
